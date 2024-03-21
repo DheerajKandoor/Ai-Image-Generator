@@ -20,7 +20,7 @@ setLoading(true);
       headers:{
         "Content-Type":"application/json",
         Authorization:
-        "Bearer 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",
+        "Bearer ADD_UR_API_KEY_HERE",
         "User-Agent":"Chrome",
       },
       body:JSON.stringify({
